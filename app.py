@@ -71,7 +71,7 @@ HIGH_INF_POS = st.number_input('HIGH_INF_POS')
 MOTIF_SCORE_CHANGE = st.number_input('MOTIF_SCORE_CHANGE')
 LoFtool = st.number_input('LoFtool')
 CADD_PHRED = st.number_input('CADD_PHRED')
-CADD_RAW+AT1 = st.number_input('CADD_RAW+AT1')
+CADD_RAW_AT1 = st.number_input('CADD_RAW_AT1')
 BLOSUM62 = st.number_input('BLOSUM62')
 
 
